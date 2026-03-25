@@ -1,7 +1,1 @@
-# Ignore datasets
-*.csv
-data/
-
-# Ignore python caches
-__pycache__/
-.ipynb_checkpoints/
+python 01_data_collection.py
