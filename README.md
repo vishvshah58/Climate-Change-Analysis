@@ -2,7 +2,7 @@
 # Climate Change Analysis & Prediction System:
 # Project OverviewThis project is an end-to-end Machine Learning and Time-Series forecasting pipeline designed to analyze historical global temperature changes and predict future climate   trends up to the year 2100. It processes raw climate datasets, engineers features (including CO2 proxies and rolling averages), and evaluates four distinct predictive models to find the most accurate forecaster.
 # Datasets Used:
-# The data is sourced from global environmental repositories, including:
+ The data is sourced from global environmental repositories, including:
 # FAOSTAT Environment Temperature Change Data
 # Global Land Temperatures By Country/City/State
 # Global Weather Repository
