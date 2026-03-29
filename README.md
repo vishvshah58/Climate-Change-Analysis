@@ -19,4 +19,5 @@
 # Model Evaluation: Comparing models using MAE, RMSE, R² Score, and MAPE to identify the highest performing algorithm.
 # Future Forecasting: Using the optimal model to extrapolate temperature anomalies decade-by-decade until 2100, including 95% confidence intervals.
 
-# Key ResultsEngineered a master timeline showing global temperature anomalies.Evaluated classical statistical models vs. modern deep learning approaches.Generated a continuous forecast to      2100 with marked milestones (2030, 2050, 2075, 2100).All visual outputs are automatically saved to the outputs/plots/ directory.Created as a Final Year Data Science & Machine Learning         Project.
+# Key ResultsEngineered a master timeline showing global temperature anomalies.Evaluated classical statistical models vs. modern deep learning approaches.Generated a continuous forecast to       2100 with marked milestones (2030, 2050, 2075, 2100).
+# All visual outputs are automatically saved to the outputs/plots/ directory.Created as a Final Year Data Science & Machine Learning Project.
